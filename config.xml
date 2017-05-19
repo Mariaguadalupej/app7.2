@@ -2,7 +2,7 @@
 
  <widget xmlns ="http://www.w3.org/ns/widgets"
    xmlns:gao="http://phonegap.com/ns/1.0"
-   id="com.phonegap.exemple7"
+   id="com.phonegap.exemple7a"
     version="1.0.0">
 	
 	<name> app7 Deslizar hacia la izquierda y a la derecha</name>
